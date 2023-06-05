@@ -1,0 +1,10 @@
+* nytpu.lisp-utils
+
+A collection of miscellaneous standalone utility packages for Common
+Lisp.
+
+|---------+-----------------------------------------------|
+| source  | git:https://git.sr.ht/~nytpu/nytpu.lisp-utils |
+| commit  | a09c44e0                                      |
+| systems | nytpu.lisp-utils                              |
+|---------+-----------------------------------------------|
