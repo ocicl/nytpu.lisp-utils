@@ -3,8 +3,9 @@
 A collection of miscellaneous standalone utility packages for Common
 Lisp.
 
+
 |---------+-----------------------------------------------|
 | source  | git:https://git.sr.ht/~nytpu/nytpu.lisp-utils |
-| commit  | 458873a3                                      |
+| commit  | 458873a                                       |
 | systems | nytpu.lisp-utils                              |
 |---------+-----------------------------------------------|
