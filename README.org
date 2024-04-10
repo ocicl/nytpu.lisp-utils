@@ -6,6 +6,6 @@ Lisp.
 
 |---------+-----------------------------------------------|
 | source  | git:https://git.sr.ht/~nytpu/nytpu.lisp-utils |
-| commit  | 9b03d79                                       |
+| commit  | ba7676a                                       |
 | systems | nytpu.lisp-utils                              |
 |---------+-----------------------------------------------|
